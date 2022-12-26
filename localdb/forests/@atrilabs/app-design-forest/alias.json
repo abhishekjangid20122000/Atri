@@ -1,0 +1,16 @@
+{
+  "Div": 14,
+  "Button": 4,
+  "Dropdown": 1,
+  "Flex": 119,
+  "Icon": 1,
+  "Input": 2,
+  "TextBox": 174,
+  "Checkbox": 1,
+  "Image": 79,
+  "Step": 3,
+  "Carousel": 3,
+  "Slider": 4,
+  "CandleStick": 1,
+  "Upload": 1
+}
